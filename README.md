@@ -86,7 +86,7 @@ I’m actively seeking roles as a **Data Analyst** where I can create impact thr
 
 - 📧 Email: [karthikeyachinmay@gmail.com](mailto:karthikeyachinmay@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/chinmaykarthikeya](https://www.linkedin.com/in/chinmaykarthikeya)  
-- 🌐 Portfolio: *(Coming Soon)*
+- 🌐 Portfolio: [MyPortfolio](https://website-ukb2.onrender.com/)
 
 ---
 
@@ -107,7 +107,7 @@ I’m actively seeking roles as a **Data Analyst** where I can create impact thr
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn Badge">
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://website-ukb2.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6A00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6A00&color=FF6A00" alt="Portfolio Badge">
   </a>
 </p>
