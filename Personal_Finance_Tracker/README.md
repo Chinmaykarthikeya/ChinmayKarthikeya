@@ -1,7 +1,15 @@
 # Personal Finance Tracker
 
 **A clean, intuitive tool to track your income and expenses, categorize spending, and visualize your financial distribution with a dynamic pie chart.**
+----
+![Dashboard Demo](https://github.com/Chinmaykarthikeya/ChinmayKarthikeya/blob/main/Personal_Finance_Tracker/Pictures/Interface.png)
+![File Uploading](https://github.com/Chinmaykarthikeya/ChinmayKarthikeya/blob/main/Personal_Finance_Tracker/Pictures/Uploading%20the%20pictures.png)
+![Adjusting the Category](https://github.com/Chinmaykarthikeya/ChinmayKarthikeya/blob/main/Personal_Finance_Tracker/Pictures/AdjustingCategory.png)
+![Expense Summary](https://github.com/Chinmaykarthikeya/ChinmayKarthikeya/blob/main/Personal_Finance_Tracker/Pictures/ExpenseSummary.png)
+![payment Summary](https://github.com/Chinmaykarthikeya/ChinmayKarthikeya/blob/main/Personal_Finance_Tracker/Pictures/PaymentSummary.png)
+![Pie Chart](https://github.com/Chinmaykarthikeya/ChinmayKarthikeya/blob/main/Personal_Finance_Tracker/Pictures/PieChart.png)
 
+----
 
 ## Features
 
