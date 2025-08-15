@@ -2,15 +2,6 @@
 
 **A clean, intuitive tool to track your income and expenses, categorize spending, and visualize your financial distribution with a dynamic pie chart.**
 
----
-
-##  Dashboard
-
-_Insert a key screenshot here (e.g., dashboard with pie chart):_
-
-![Dashboard with Pie Chart](path/to/screenshot.png)
-
----
 
 ## Features
 
