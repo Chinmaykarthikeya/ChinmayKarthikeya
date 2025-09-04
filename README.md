@@ -38,6 +38,14 @@
 
 ## 📌 Featured Projects
 
+
+### 🧹 **SQL DATA Ware House Project USing Medallion Architecture**  
+> Create a SQL Based Data Ware house architecture using the medallion architecture which consists of the bronzse, silver, and gold layer and  the raw data is  trucated and loaded into the bronze schema and data is cleaned and standardized and normalised in the silver schema  and in the gold schema the data is modeled based on the relation between the crm and erp datasets we have used inside the table .  
+> 🔧 *SQL, Microsoft SQL server*  
+> 📎 [View Project](https://github.com/Chinmaykarthikeya/sql-data-warehouse-project)
+
+
+
 ### 📊 **Vendor Sales Analytics Dashboard**  
 > I built an interactive dashboard that tracks sales trends and vendor performance in real-time. This project gave me hands-on experience turning complex datasets into clear visual stories that inform smart business decisions.  
 > 🔧 *Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy), SQLite*  
